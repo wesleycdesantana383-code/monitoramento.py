@@ -7,3 +7,4 @@ Este projeto simula um sistema de controle de níveis de água utilizando Python
    `pip install colorama`
 2. Execute o script:
    `python monitoramento.py`
+
